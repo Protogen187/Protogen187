@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Protogen187
 - 👀 I’m interested in Trains
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working as IT-Systemtechnician
 - 💞️ I’m looking to collaborate on Trains
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
