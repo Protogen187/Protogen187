@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Protogen187
-- 👀 I’m interested in trains
+- 👋 Hi, I’m Proto
+- 👀 I’m interested in Trains
 - 🌱 I’m working as an IT-Systemtechnician
-- 💞️ I’m looking to collaborate on trains
-- 📫 How to reach me: by train
+- 💞️ I’m looking to collaborate on Trains
+- 📫 How to reach me: by Trains
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: trains
+- ⚡ Fun fact: Trains
 
 <!---
 Protogen187/Protogen187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
